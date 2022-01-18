@@ -3,8 +3,7 @@ set icons
 set drawbox
 set shell cmd
 map e $nvim %f%
-map o $nvim %dir%
+map o $nvim .
 map w $powershell
 map <enter> shell
 map . set hidden!
-
